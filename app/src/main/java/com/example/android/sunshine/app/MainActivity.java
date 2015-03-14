@@ -26,7 +26,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
-
+//PRova prima modifica
     private final String LOG_TAG = MainActivity.class.getSimpleName();
 
     @Override
